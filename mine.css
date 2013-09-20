@@ -1,0 +1,30 @@
+body{
+    background-image:url('page.jpg');
+    background-repeat:repeat-y;
+    background-position:center; 
+    background-color:black;
+}
+
+#nav-site
+{
+    padding:0;
+    margin-top:0;
+    list-style:none;
+}
+
+#nav-site li 
+{
+    display:inline-block;
+    margin-left:5px;
+}
+
+#logo
+{
+   
+    margin:0 auto;
+    margin-bottom:15px;
+}
+#nav-site li a
+{
+    display:block;
+}
